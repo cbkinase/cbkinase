@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/header-image.svg" alt="Header image" /></h1>
 
-![](https://raw.githubusercontent.com/cbkinase/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/cbkinase/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/cbkinase/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cbkinase/gh-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 <!--
