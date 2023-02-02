@@ -1,7 +1,10 @@
 <h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/header-image.svg" alt="Header image" /></h1>
 
 
-<h1 align="center"><img src="https://github.com/cbkinase/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/></h1>
+<h1 align="center">
+![](https://raw.githubusercontent.com/cbkinase/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cbkinase/github-stats/master/generated/overview.svg#gh-light-mode-only)
+</h1>
 
 <!--
 **cbkinase/cbkinase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
