@@ -1,9 +1,7 @@
 <h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/header-image.svg" alt="Header image" /></h1>
 
-<div align="center">
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
- </div>
 
 <!--
 **cbkinase/cbkinase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
