@@ -106,6 +106,7 @@ div.ellipsis {
   color: #8b949e;
 }
 </style>
+  
 <g>
 <rect x="5" y="5" id="background" />
 <g>
