@@ -1,4 +1,5 @@
 <h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/header-image.svg" alt="Header image" /></h1>
+<h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/languages.svg" alt="Top languages" /></h1>
 
 
 <!--
