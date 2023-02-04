@@ -48,7 +48,7 @@ li {
   align-items: center;
   flex-wrap: nowrap;
   transform: translateX(-500%);
-  animation: slideIn 5s ease-in-out forwards;
+  animation: slideIn 2s ease-in-out forwards;
 }
 @keyframes slideIn {
   to {
