@@ -253,7 +253,7 @@
           }
         }
         #name, #txt {
-          color: rgb(108, 103, 103);
+         color: rgb(145, 145, 145);
         }
       </style>
       <div class="container">
