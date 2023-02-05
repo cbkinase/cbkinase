@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/header-image.svg" alt="Header image" /></h1>
 
-<div display="flex" id="logo-container">
+<div align="center" id="logo-container">
 <!-- JS stuff -->
 
 <img class="logo" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
