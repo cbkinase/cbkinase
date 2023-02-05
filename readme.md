@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/header-image.svg" alt="Header image" /></h1>
-
+<dl>
 <div id="logo-container">
 <!-- JS stuff -->
 
@@ -55,7 +55,7 @@
         padding-bottom: 5px;
     }
     </style>
-
+</dl>
 
 
 
