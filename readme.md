@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/header-image.svg" alt="Header image" /></h1>
-<dl>
+
 <div id="logo-container">
 <!-- JS stuff -->
 
@@ -40,22 +40,6 @@
 <!-- < img class="logo" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
 </div>
 
-
-<style>
-    #logo-container {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        align-items: stretch;
-        justify-content: space-between;
-    }
-    .logo {
-        flex-basis: 25%;
-        max-height: 100px;
-        padding-bottom: 5px;
-    }
-    </style>
-</dl>
 
 
 
