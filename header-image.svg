@@ -253,10 +253,7 @@
           }
         }
         #name, #txt {
-         color: rgb(145, 145, 145);
-        }
-        #txt {
-        opacity: 0.8;
+         color: rgb(108, 103, 103);
         }
       </style>
       <div class="container">
