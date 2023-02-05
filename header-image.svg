@@ -255,6 +255,9 @@
         #name, #txt {
          color: rgb(145, 145, 145);
         }
+        #txt {
+        opacity: 0.8;
+        }
       </style>
       <div class="container">
         <div class="box">
