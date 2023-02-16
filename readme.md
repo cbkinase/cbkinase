@@ -43,7 +43,7 @@
 
 
 
-<h1 align="center"><img src="https://github.com/cbkinase/cbkinase/blob/main/languages.svg" alt="Top languages" /></h1>
+<h1 align="center"><img src="https://github.com/cbkinase/github-stats/blob/master/generated/languages.svg" alt="Top languages" /></h1>
 
 
 <!--
