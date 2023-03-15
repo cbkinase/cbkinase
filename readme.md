@@ -43,7 +43,7 @@
 
 
 
-<div align="center">
+<h1 align="center">
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
@@ -57,7 +57,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/cbkinase/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
 
-</div>
+</h1>
 
 
 <!--
